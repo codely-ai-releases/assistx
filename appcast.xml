@@ -3,12 +3,12 @@
     <channel>
         <title>AssistX</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Mon, 24 Jun 2024 21:20:58 +0200</pubDate>
+            <title>1.0</title>
+            <pubDate>Tue, 25 Jun 2024 21:27:59 +0200</pubDate>
             <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/codely-ai-releases/assistx/releases/download/prod/AssistX.dmg" length="4465921" type="application/octet-stream" sparkle:edSignature="NZeZENCOYpc/t2U6v3Hp+bcph2nBIkK7pnft2RcUCGNkag8u/+aO9DlA6f7ej7eoCjIeNjhb2cKbPZLsf39cAg=="/>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/codely-ai-releases/assistx/releases/download/prod/AssistX.dmg" length="4487133" type="application/octet-stream" sparkle:edSignature="VACKMJ4iTsm0cuB17DY8scw3SWYr3mNcou8RIay5looaKEnczGidIEcjj08lXrgN7HBu6Gh1549pLjRbT+56Cg=="/>
         </item>
     </channel>
 </rss>
